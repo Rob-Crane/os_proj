@@ -32,4 +32,4 @@ export CXXFLAGS="$CFLAGS"
 5. Should build successfully.
 
 ### Complete Pintos Installation
-1. Complete steps 2.. from [installation instructions](https://web.stanford.edu/class/cs140/projects/pintos/pintos_12.html#SEC167).
+1. Complete steps 2... from [installation instructions](https://web.stanford.edu/class/cs140/projects/pintos/pintos_12.html#SEC167).
